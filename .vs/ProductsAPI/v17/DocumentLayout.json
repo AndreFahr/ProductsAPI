@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\dtos\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\dtos\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductsAPI\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\obj\\Debug\\net8.0\\3lb5ulzs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductsAPI\\obj\\Debug\\net8.0\\3lb5ulzs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\mappings\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\mappings\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\andre\\onedrive\\\u00E1rea de trabalho\\cursos\\coti\\csharpwebdev\\05 02 2025\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746F809-E785-4F03-94C1-C8AB86A225BD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\obj\\Debug\\net8.0\\3lb5ulzs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductsAPI\\obj\\Debug\\net8.0\\3lb5ulzs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductsAPI\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductsAPI\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\DTOs\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\DTOs\\ProductResponseDto.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\DTOs\\ProductResponseDto.cs",
+              "RelativeToolTip": "ProductsAPI\\DTOs\\ProductResponseDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:09:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "ProductsAPI\\SQLQuery2.sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-07T14:38:30.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\DTOs\\ProductRequestDto.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\DTOs\\ProductRequestDto.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\DTOs\\ProductRequestDto.cs",
+              "RelativeToolTip": "ProductsAPI\\DTOs\\ProductRequestDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:22:20.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\DTOs\\CategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\DTOs\\CategoryResponseDto.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\DTOs\\CategoryResponseDto.cs",
+              "RelativeToolTip": "ProductsAPI\\DTOs\\CategoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:05:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductsAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:35:17.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ProductsAPI\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:35:05.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "3lb5ulzs.sql ",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\obj\\Debug\\net8.0\\3lb5ulzs.sql",
+              "RelativeDocumentMoniker": "ProductsAPI\\obj\\Debug\\net8.0\\3lb5ulzs.sql",
+              "ToolTip": "3lb5ulzs.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-05T15:27:30.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "ProductsAPI\\Contexts\\DataContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:03:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductMap.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Mappings\\ProductMap.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Mappings\\ProductMap.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Mappings\\ProductMap.cs",
+              "RelativeToolTip": "ProductsAPI\\Mappings\\ProductMap.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:14:23.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryMap.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Mappings\\CategoryMap.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Mappings\\CategoryMap.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Mappings\\CategoryMap.cs",
+              "RelativeToolTip": "ProductsAPI\\Mappings\\CategoryMap.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:13:52.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:41:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Entities\\Category.cs",
+              "RelativeToolTip": "ProductsAPI\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:41:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAgwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:06:34.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:04:57.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\COTI\\CSHARPWEBDEV\\05 02 2025\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:42:45.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

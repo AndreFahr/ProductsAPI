@@ -1,0 +1,44 @@
+﻿IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+GO
+
+BEGIN TRANSACTION;
+GO
+
+CREATE TABLE [CATEGORIES] (
+    [ID] uniqueidentifier NOT NULL,
+    [NAME] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_CATEGORIES] PRIMARY KEY ([ID])
+);
+GO
+
+CREATE TABLE [PRODUCTS] (
+    [ID] uniqueidentifier NOT NULL,
+    [NAME] nvarchar(100) NOT NULL,
+    [PRICE] decimal(10,2) NOT NULL,
+    [QUANTITY] int NOT NULL,
+    [CATEGORY_ID] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_PRODUCTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PRODUCTS_CATEGORIES_CATEGORY_ID] FOREIGN KEY ([CATEGORY_ID]) REFERENCES [CATEGORIES] ([ID]) ON DELETE CASCADE
+);
+GO
+
+CREATE UNIQUE INDEX [IX_CATEGORIES_NAME] ON [CATEGORIES] ([NAME]);
+GO
+
+CREATE INDEX [IX_PRODUCTS_CATEGORY_ID] ON [PRODUCTS] ([CATEGORY_ID]);
+GO
+
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250205152243_Initial', N'8.0.12');
+GO
+
+COMMIT;
+GO
+
