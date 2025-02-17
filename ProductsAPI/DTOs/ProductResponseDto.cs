@@ -13,7 +13,8 @@ namespace ProductsAPI.DTOs
         public decimal? Price { get; set; }
         public int? Quantity { get; set; }
         public decimal? Total { get{ return Price * Quantity; } }
-        public Guid? CategoriaId { get; set; }
+        public Guid? CategoryId { get; set; }
+        public string? CategoryName { get; set; }
 
     }
 }

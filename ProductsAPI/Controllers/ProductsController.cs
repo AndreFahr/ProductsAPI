@@ -119,7 +119,8 @@ namespace ProductsAPI.Controllers
                     Name = product.Name,//preenchendo Nome do produto
                     Price = product.Price,//preenchendo Preco do produto
                     Quantity = product.Quantity,//preenchendo Quantidade do produto
-                    CategoriaId = product.CategoryId//preenchendo Id da categoria
+                    CategoryId = product.Category?.Id,//preenchendo Id da categoria
+                    CategoryName = product.Category?.Name//preenchendo Nome da categoria
                 });
 
             }
@@ -142,7 +143,7 @@ namespace ProductsAPI.Controllers
                 Name = product.Name,//preenchendo Nome do produto
                 Price = product.Price,//preenchendo Preco do produto
                 Quantity = product.Quantity,//preenchendo Quantidade do produto
-                CategoriaId = product.CategoryId//preenchendo Id da categoria
+                CategoryId = product.CategoryId,//preenchendo Id da categoria
             };
 
             //retornar os dados do Dto

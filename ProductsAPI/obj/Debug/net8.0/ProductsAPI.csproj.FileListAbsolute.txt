@@ -145,3 +145,4 @@ C:\Users\andre\OneDrive\Área de Trabalho\CURSOS\COTI\CSHARPWEBDEV\05 02 2025\Pr
 C:\Users\andre\OneDrive\Área de Trabalho\CURSOS\COTI\CSHARPWEBDEV\05 02 2025\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\andre\OneDrive\Área de Trabalho\CURSOS\COTI\CSHARPWEBDEV\05 02 2025\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\andre\OneDrive\Área de Trabalho\CURSOS\COTI\CSHARPWEBDEV\05 02 2025\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\CURSOS\COTI\CSHARPWEBDEV\05 02 2025\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.sourcelink.json
